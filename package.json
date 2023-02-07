@@ -1,0 +1,23 @@
+{
+  "name": "test-javascript",
+  "version": "0.0.0",
+  "description": "Es un entorno de prueba de ES6 para node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Espinoza24/test-javascript.git"
+  },
+  "keywords": [
+    "Node",
+    "ES6"
+  ],
+  "author": "espinozaaylen4bo@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Espinoza24/test-javascript/issues"
+  },
+  "homepage": "https://github.com/Espinoza24/test-javascript#readme"
+}
